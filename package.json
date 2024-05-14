@@ -1,0 +1,23 @@
+{
+  "name": "news_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean2232/news_scrapper.git"
+  },
+  "author": "jeann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean2232/news_scrapper/issues"
+  },
+  "homepage": "https://github.com/Jean2232/news_scrapper#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
